@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Mohamedslm1/Mohamedslm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
 Full Stack Developer 👨‍💻 with 2+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages.
 
 
