@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **amazing things ...**
 
-- 📫 How to reach me **mohammedslimani0202@gmail.com**
+- 📫 How to reach me **mohammedslimani0604@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny 🤣**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
